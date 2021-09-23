@@ -1,8 +1,5 @@
-# Read Me Template
+# Simple Music Player
 
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
 
 ---
 
@@ -12,14 +9,13 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
-- [License](#license)
 - [Author Info](#author-info)
 
 ---
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+A simple music player that you can play songs, replay the current song, and shuffle the songs.
 
 #### Technologies
 
@@ -27,17 +23,19 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 - CSS
 - Javascript
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Simple-Music-Player)
 
 ---
 
 ## How To Use
-
+- Access this link: https://chuongtran01.github.io/simplemusicplayer/
 ---
 
 ## References
 - [Fullstack.edu.vn](https://fullstack.edu.vn/)
 - [Spotify](https://www.spotify.com/us/)
+
+[Back To The Top](#Simple-Music-Player)
 
 ---
 
@@ -48,4 +46,4 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 - Linkedln - [Chuong Tran](https://www.linkedin.com/in/chuongtran2001/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Simple-Music-Player)
