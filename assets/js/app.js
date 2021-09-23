@@ -27,12 +27,6 @@ const app = {
 
     songs: [
         {
-            name: 'Nắm lấy đôi bàn tay',
-            singer: 'Kay Tran',
-            path: './assets/music/namlaydoibantay.mp3',
-            image: './assets/img/namlaydoibantay.webp'
-        },
-        {
             name: 'Sau tat ca',
             singer: 'Erik',
             path: './assets/music/sautatca.mp3',
