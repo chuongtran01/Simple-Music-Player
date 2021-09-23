@@ -15,7 +15,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-A simple music player that you can play songs, replay the current song, and shuffle the songs.
+A simple music player that you can play songs, replay the current song, and shuffle the songs. The app is also able to save your choice after refreshing the page.
 
 #### Technologies
 
