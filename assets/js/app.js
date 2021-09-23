@@ -27,54 +27,35 @@ const app = {
 
     songs: [
         {
-            name: 'Có hẹn với thanh xuân',
-            singer: 'Monstar',
-            path: './assets/music/cohenvoithanhxuan.mp3',
-            image: './assets/img/cohenvoithanhxuan.jpg'
-        },
-        {
             name: 'Nắm lấy đôi bàn tay',
             singer: 'Kay Tran',
             path: './assets/music/namlaydoibantay.mp3',
             image: './assets/img/namlaydoibantay.webp'
         },
         {
-            name: 'Sau tất cả',
+            name: 'Sau tat ca',
             singer: 'Erik',
             path: './assets/music/sautatca.mp3',
             image: './assets/img/sautatca.jfif'
         },
         {
-            name: 'Thức giấc',
+            name: 'Thuc giac',
             singer: 'Da Lab',
             path: './assets/music/thucgiac.mp3',
             image: './assets/img/thucgiacc.jfif'
         },
         {
-            name: 'Nắm lấy đôi bàn tay',
+            name: 'Nam lay doi ban tay',
             singer: 'Kay Tran',
             path: './assets/music/namlaydoibantay.mp3',
             image: './assets/img/namlaydoibantay.webp'
         },
         {
-            name: 'Nắm lấy đôi bàn tay',
-            singer: 'Kay Tran',
-            path: './assets/music/namlaydoibantay.mp3',
-            image: './assets/img/namlaydoibantay.webp'
-        },
-        {
-            name: 'Có hẹn với thanh xuân',
+            name: 'Co hen voi thanh xuan',
             singer: 'Monstar',
             path: './assets/music/cohenvoithanhxuan.mp3',
             image: './assets/img/cohenvoithanhxuan.jpg'
         },
-        {
-            name: 'Có hẹn với thanh xuân',
-            singer: 'Monstar',
-            path: './assets/music/cohenvoithanhxuan.mp3',
-            image: './assets/img/cohenvoithanhxuan.jpg'
-        },  
-
     ],
 
     setConfig: function(key, value) {
@@ -92,9 +73,6 @@ const app = {
                 <div class="body">
                     <h3 class="title">${song.name}</h3>
                     <p class="author">${song.singer}</p>
-                </div>
-                <div class="option">
-                    <i class="fas fa-ellipsis-h"></i>
                 </div>
             </div>
             `
