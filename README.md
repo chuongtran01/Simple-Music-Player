@@ -42,7 +42,7 @@ A music player application plays songs, replays the current song, and shuffles t
 
 ---
 
-## Author Info
+## Author Information
 
 - Linkedln - [Chuong Tran](https://www.linkedin.com/in/chuongtran2001/)
 
